@@ -1,4 +1,0 @@
-Oct 24, 2024 9:53:12 PM sanm.MSI_CTO execute
-INFO: C:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_Input_Zip folder is empty
-Oct 24, 2024 9:53:12 PM sanm.MSI_CTO execute
-INFO: ------------------------------------------

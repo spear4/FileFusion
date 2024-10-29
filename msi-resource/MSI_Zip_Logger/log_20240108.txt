@@ -1,0 +1,24 @@
+Jan 08, 2024 2:54:15 PM sanm.MSI_CTO execute
+INFO: Output File - MOTOSIT-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.xml file which is generated from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip processed successfully and archived in : C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Output
+Jan 08, 2024 2:54:15 PM sanm.MSI_CTO execute
+INFO: Parametric File : MOTO-B2B_SFTP_Penang_3203102892_Parametric_Data_Download_1.0_202309270309180909.txt file is archived successfully in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Parametric
+Jan 08, 2024 2:54:15 PM sanm.MSI_CTO execute
+INFO: PDF File : SM95816934_PO_PDF.pdf file is archived successfully in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_PDF
+Jan 08, 2024 2:54:15 PM sanm.MSI_CTO execute
+INFO: Good zip file : MOTOSIT-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zip is archived in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Zip_Archive Successfully
+Jan 08, 2024 2:54:15 PM sanm.MSI_CTO execute
+INFO: Proccessed zipfile : MOTOSIT-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zip is deleted successfully from the input folder :C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Jan 08, 2024 2:54:15 PM sanm.MSI_CTO execute
+INFO: ------------------------------------------
+Jan 08, 2024 3:11:23 PM sanm.MSI_CTO execute
+INFO: Output File - MOTOSIT-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.xml file which is generated from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip processed successfully and archived in : C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Output
+Jan 08, 2024 3:11:23 PM sanm.MSI_CTO execute
+INFO: Parametric File : MOTO-B2B_SFTP_Penang_3203102892_Parametric_Data_Download_1.0_202309270309180909.txt file is archived successfully in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Parametric
+Jan 08, 2024 3:11:23 PM sanm.MSI_CTO execute
+INFO: PDF File : SM95816934_PO_PDF.pdf file is archived successfully in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_PDF
+Jan 08, 2024 3:11:23 PM sanm.MSI_CTO execute
+INFO: Good zip file : MOTOSIT-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zip is archived in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Zip_Archive Successfully
+Jan 08, 2024 3:11:23 PM sanm.MSI_CTO execute
+INFO: Proccessed zipfile : MOTOSIT-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zip is deleted successfully from the input folder :C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Jan 08, 2024 3:11:23 PM sanm.MSI_CTO execute
+INFO: ------------------------------------------

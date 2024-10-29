@@ -1,0 +1,48 @@
+Oct 07, 2024 10:16:55 AM sanm.MSI_CTO execute
+INFO: No PO_SO Tab Delimiter File Found inside the Zip file : MOTOSIT-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zipWhich is taken fromC:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_Input_Zip
+Oct 07, 2024 10:16:55 AM sanm.MSI_CTO execute
+INFO: No SO XML File Found inside the Zip file : MOTOSIT-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zipWhich is taken fromC:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_Input_Zip
+Oct 07, 2024 10:16:55 AM sanm.MSI_CTO execute
+INFO: ERROR : Bad zip file - MOTOSIT-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zip is archived in C:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_ErrorZips Successfully
+Oct 07, 2024 10:16:55 AM sanm.MSI_CTO execute
+INFO: Proccessed zipfile : MOTOSIT-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zip is deleted successfully from the input folder :C:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_Input_Zip
+Oct 07, 2024 10:16:55 AM sanm.MSI_CTO execute
+INFO: ------------------------------------------
+Oct 07, 2024 10:20:21 AM sanm.MSI_CTO execute
+INFO: No PO_SO Tab Delimiter File Found inside the Zip file : MOTOSIT-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zipWhich is taken fromC:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_Input_Zip
+Oct 07, 2024 10:20:21 AM sanm.MSI_CTO execute
+INFO: No SO XML File Found inside the Zip file : MOTOSIT-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zipWhich is taken fromC:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_Input_Zip
+Oct 07, 2024 10:20:21 AM sanm.MSI_CTO execute
+INFO: ERROR : Bad zip file - MOTOSIT-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zip is archived in C:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_ErrorZips Successfully
+Oct 07, 2024 10:20:21 AM sanm.MSI_CTO execute
+INFO: Proccessed zipfile : MOTOSIT-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zip is deleted successfully from the input folder :C:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_Input_Zip
+Oct 07, 2024 10:20:21 AM sanm.MSI_CTO execute
+INFO: ------------------------------------------
+Oct 07, 2024 10:30:54 AM sanm.MSI_CTO execute
+INFO: Output File - MOTO-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.xml file which is generated from C:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_Input_Zip processed successfully and archived in : C:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_Output
+Oct 07, 2024 10:30:54 AM sanm.MSI_CTO execute
+INFO: Parametric File : MOTO-B2B_SFTP_Penang_3203102892_Parametric_Data_Download_1.0_202309270309180909.txt file is archived successfully in C:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_Parametric
+Oct 07, 2024 10:30:54 AM sanm.MSI_CTO execute
+INFO: PDF File : SM95816934_PO_PDF.pdf file is archived successfully in C:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_PDF
+Oct 07, 2024 10:30:54 AM sanm.MSI_CTO execute
+INFO: Good zip file : MOTO-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zip is archived in C:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_Zip_Archive Successfully
+Oct 07, 2024 10:30:54 AM sanm.MSI_CTO execute
+INFO: Proccessed zipfile : MOTO-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zip is deleted successfully from the input folder :C:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_Input_Zip
+Oct 07, 2024 10:30:54 AM sanm.MSI_CTO execute
+INFO: ------------------------------------------
+Oct 07, 2024 10:36:33 AM sanm.MSI_CTO execute
+INFO: Output File - MOTO-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.xml file which is generated from C:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_Input_Zip processed successfully and archived in : C:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_Output
+Oct 07, 2024 10:36:33 AM sanm.MSI_CTO execute
+INFO: Parametric File : MOTO-B2B_SFTP_Penang_3203102892_Parametric_Data_Download_1.0_202309270309180909.txt file is archived successfully in C:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_Parametric
+Oct 07, 2024 10:36:33 AM sanm.MSI_CTO execute
+INFO: PDF File : SM95816934_PO_PDF.pdf file is archived successfully in C:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_PDF
+Oct 07, 2024 10:36:33 AM sanm.MSI_CTO execute
+INFO: Good zip file : MOTO-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zip is archived in C:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_Zip_Archive Successfully
+Oct 07, 2024 10:36:33 AM sanm.MSI_CTO execute
+INFO: Proccessed zipfile : MOTO-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zip is deleted successfully from the input folder :C:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_Input_Zip
+Oct 07, 2024 10:36:33 AM sanm.MSI_CTO execute
+INFO: ------------------------------------------
+Oct 07, 2024 11:39:20 AM sanm.MSI_CTO execute
+INFO: C:\Users\manin\sanm-workspace\sanm\msi-resource\1096968_Input_Zip folder is empty
+Oct 07, 2024 11:39:20 AM sanm.MSI_CTO execute
+INFO: ------------------------------------------

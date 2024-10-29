@@ -1,0 +1,124 @@
+Dec 07, 2023 11:20:48 AM sanm.MSI_CTO execute
+INFO: Output File - MOTO-B2B_SFTP_POSM95816934_SO3203102892_Download_1.0_202309270308040909.xml file which is generated from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip processed successfully and archived in : C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Output
+Dec 07, 2023 11:20:49 AM sanm.MSI_CTO execute
+INFO: Parametric File : MOTO-B2B_SFTP_Penang_3203102892_Parametric_Data_Download_1.0_202309270309180909.txt file is archived successfully in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Parametric
+Dec 07, 2023 11:20:50 AM sanm.MSI_CTO execute
+INFO: PDF File : SM95816934_PO_PDF.pdf file is archived successfully in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_PDF
+Dec 07, 2023 11:20:50 AM sanm.MSI_CTO execute
+INFO: Good zip file : MOTO-B2B_SFTP_POSM95816934_SO3203102892_Download_1.0_202309270308040909.zip is archived in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Zip_Archive Successfully
+Dec 07, 2023 11:20:50 AM sanm.MSI_CTO execute
+INFO: Proccessed zipfile : MOTO-B2B_SFTP_POSM95816934_SO3203102892_Download_1.0_202309270308040909.zip is deleted successfully from the input folder :C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 11:20:50 AM sanm.MSI_CTO execute
+INFO: ------------------------------------------
+Dec 07, 2023 12:35:58 PM sanm.MSI_CTO execute
+INFO: No PO_SO Tab Delimiter File Found inside the Zip file : MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zipWhich is taken fromC:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 12:36:00 PM sanm.MSI_CTO execute
+INFO: No SO XML File Found inside the Zip file : MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zipWhich is taken fromC:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 12:36:00 PM sanm.MSI_CTO execute
+INFO: ERROR : Bad zip file - MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zip is archived in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_ErrorZips Successfully
+Dec 07, 2023 12:36:00 PM sanm.MSI_CTO execute
+INFO: Proccessed zipfile : MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zip is deleted successfully from the input folder :C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 12:36:00 PM sanm.MSI_CTO execute
+INFO: ------------------------------------------
+Dec 07, 2023 12:41:26 PM sanm.MSI_CTO execute
+INFO: C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip folder is empty
+Dec 07, 2023 12:41:26 PM sanm.MSI_CTO execute
+INFO: ------------------------------------------
+Dec 07, 2023 12:41:43 PM sanm.MSI_CTO execute
+INFO: Output File - MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.xml file which is generated from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip processed successfully and archived in : C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Output
+Dec 07, 2023 12:41:43 PM sanm.MSI_CTO execute
+INFO: No PDF File found inside MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zip Zip File taken from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 12:41:43 PM sanm.MSI_CTO execute
+INFO: No Parametric File found inside MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zip Zip File taken from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 12:41:43 PM sanm.MSI_CTO execute
+INFO: Good zip file : MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zip is archived in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Zip_Archive Successfully
+Dec 07, 2023 12:41:43 PM sanm.MSI_CTO execute
+INFO: Proccessed zipfile : MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zip is deleted successfully from the input folder :C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 12:41:45 PM sanm.MSI_CTO execute
+INFO: ------------------------------------------
+Dec 07, 2023 1:27:39 PM sanm.MSI_CTO execute
+INFO: Output File - MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.xml file which is generated from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip processed successfully and archived in : C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Output
+Dec 07, 2023 1:27:39 PM sanm.MSI_CTO execute
+INFO: No PDF File found inside MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zip Zip File taken from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 1:27:39 PM sanm.MSI_CTO execute
+INFO: No Parametric File found inside MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zip Zip File taken from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 1:27:40 PM sanm.MSI_CTO execute
+INFO: Good zip file : MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zip is archived in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Zip_Archive Successfully
+Dec 07, 2023 1:27:40 PM sanm.MSI_CTO execute
+INFO: Proccessed zipfile : MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zip is deleted successfully from the input folder :C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 1:27:40 PM sanm.MSI_CTO execute
+INFO: ------------------------------------------
+Dec 07, 2023 1:35:35 PM sanm.MSI_CTO execute
+INFO: Output File - MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.xml file which is generated from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip processed successfully and archived in : C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Output
+Dec 07, 2023 1:35:35 PM sanm.MSI_CTO execute
+INFO: No PDF File found inside MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zip Zip File taken from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 1:35:35 PM sanm.MSI_CTO execute
+INFO: No Parametric File found inside MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zip Zip File taken from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 1:35:35 PM sanm.MSI_CTO execute
+INFO: Good zip file : MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zip is archived in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Zip_Archive Successfully
+Dec 07, 2023 1:35:35 PM sanm.MSI_CTO execute
+INFO: Proccessed zipfile : MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zip is deleted successfully from the input folder :C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 1:35:35 PM sanm.MSI_CTO execute
+INFO: ------------------------------------------
+Dec 07, 2023 3:46:53 PM sanm.MSI_CTO execute
+INFO: Output File - MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.xml file which is generated from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip processed successfully and archived in : C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Output
+Dec 07, 2023 3:46:53 PM sanm.MSI_CTO execute
+INFO: No PDF File found inside MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zip Zip File taken from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 3:46:53 PM sanm.MSI_CTO execute
+INFO: No Parametric File found inside MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zip Zip File taken from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 3:46:53 PM sanm.MSI_CTO execute
+INFO: Good zip file : MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zip is archived in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Zip_Archive Successfully
+Dec 07, 2023 3:46:53 PM sanm.MSI_CTO execute
+INFO: Proccessed zipfile : MOTOSIT-B2B_SFTP_POSM95766812_SO320295908799_Download_1.0_202312040656260001.zip is deleted successfully from the input folder :C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 3:46:53 PM sanm.MSI_CTO execute
+INFO: Output File - MOTOSIT-B2B_SFTP_POSM95766824_SO320288116199_Download_1.0_202312040658540001.xml file which is generated from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip processed successfully and archived in : C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Output
+Dec 07, 2023 3:46:53 PM sanm.MSI_CTO execute
+INFO: No PDF File found inside MOTOSIT-B2B_SFTP_POSM95766824_SO320288116199_Download_1.0_202312040658540001.zip Zip File taken from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 3:46:53 PM sanm.MSI_CTO execute
+INFO: No Parametric File found inside MOTOSIT-B2B_SFTP_POSM95766824_SO320288116199_Download_1.0_202312040658540001.zip Zip File taken from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 3:46:53 PM sanm.MSI_CTO execute
+INFO: Good zip file : MOTOSIT-B2B_SFTP_POSM95766824_SO320288116199_Download_1.0_202312040658540001.zip is archived in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Zip_Archive Successfully
+Dec 07, 2023 3:46:53 PM sanm.MSI_CTO execute
+INFO: Proccessed zipfile : MOTOSIT-B2B_SFTP_POSM95766824_SO320288116199_Download_1.0_202312040658540001.zip is deleted successfully from the input folder :C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 3:46:53 PM sanm.MSI_CTO execute
+INFO: ------------------------------------------
+Dec 07, 2023 3:47:07 PM sanm.MSI_CTO execute
+INFO: Output File - MOTOSIT-B2B_SFTP_POSM95766841_SO320290162499_Download_1.0_202312040702050001.xml file which is generated from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip processed successfully and archived in : C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Output
+Dec 07, 2023 3:47:07 PM sanm.MSI_CTO execute
+INFO: No PDF File found inside MOTOSIT-B2B_SFTP_POSM95766841_SO320290162499_Download_1.0_202312040702050001.zip Zip File taken from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 3:47:07 PM sanm.MSI_CTO execute
+INFO: No Parametric File found inside MOTOSIT-B2B_SFTP_POSM95766841_SO320290162499_Download_1.0_202312040702050001.zip Zip File taken from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 3:47:07 PM sanm.MSI_CTO execute
+INFO: Good zip file : MOTOSIT-B2B_SFTP_POSM95766841_SO320290162499_Download_1.0_202312040702050001.zip is archived in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Zip_Archive Successfully
+Dec 07, 2023 3:47:07 PM sanm.MSI_CTO execute
+INFO: Proccessed zipfile : MOTOSIT-B2B_SFTP_POSM95766841_SO320290162499_Download_1.0_202312040702050001.zip is deleted successfully from the input folder :C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 3:47:07 PM sanm.MSI_CTO execute
+INFO: Output File - MOTOSIT-B2B_SFTP_POSM95767616_SO320290680199_Download_1.0_202312040810310001.xml file which is generated from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip processed successfully and archived in : C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Output
+Dec 07, 2023 3:47:07 PM sanm.MSI_CTO execute
+INFO: No PDF File found inside MOTOSIT-B2B_SFTP_POSM95767616_SO320290680199_Download_1.0_202312040810310001.zip Zip File taken from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 3:47:07 PM sanm.MSI_CTO execute
+INFO: No Parametric File found inside MOTOSIT-B2B_SFTP_POSM95767616_SO320290680199_Download_1.0_202312040810310001.zip Zip File taken from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 3:47:07 PM sanm.MSI_CTO execute
+INFO: Good zip file : MOTOSIT-B2B_SFTP_POSM95767616_SO320290680199_Download_1.0_202312040810310001.zip is archived in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Zip_Archive Successfully
+Dec 07, 2023 3:47:07 PM sanm.MSI_CTO execute
+INFO: Proccessed zipfile : MOTOSIT-B2B_SFTP_POSM95767616_SO320290680199_Download_1.0_202312040810310001.zip is deleted successfully from the input folder :C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 3:47:07 PM sanm.MSI_CTO execute
+INFO: ------------------------------------------
+Dec 07, 2023 3:55:41 PM sanm.MSI_CTO execute
+INFO: Output File - MOTOSIT-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.xml file which is generated from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip processed successfully and archived in : C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Output
+Dec 07, 2023 3:55:41 PM sanm.MSI_CTO execute
+INFO: No PDF File found inside MOTOSIT-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zip Zip File taken from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 3:55:41 PM sanm.MSI_CTO execute
+INFO: No Parametric File found inside MOTOSIT-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zip Zip File taken from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 3:55:41 PM sanm.MSI_CTO execute
+INFO: Good zip file : MOTOSIT-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zip is archived in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Zip_Archive Successfully
+Dec 07, 2023 3:55:41 PM sanm.MSI_CTO execute
+INFO: Proccessed zipfile : MOTOSIT-B2B_SFTP_POSM95792912_SO320298608899_Download_1.0_202312041202310001.zip is deleted successfully from the input folder :C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 3:55:42 PM sanm.MSI_CTO execute
+WARNING: ERROR : Occured while processing the MOTOSIT-B2B_SFTP_POSM95792945_SO320287194599_Download_1.0_202312041208510001 ouput XML File which is generated from C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip is - org.xml.sax.SAXParseException; systemId: file:/C:/Users/manigandan_murugan/Desktop/my_java/zip_project/1096968_Extracted/1096968_xml_files/MOTOSIT-B2B_SFTP_SO320287194599_Download_1.0_202312041207560001.xml; lineNumber: 464; columnNumber: 6; The markup in the document following the root element must be well-formed.
+Dec 07, 2023 3:55:42 PM sanm.MSI_CTO execute
+INFO: ERROR : Bad zip file - MOTOSIT-B2B_SFTP_POSM95792945_SO320287194599_Download_1.0_202312041208510001.zip is archived in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_ErrorZips Successfully
+Dec 07, 2023 3:55:42 PM sanm.MSI_CTO execute
+INFO: Proccessed zipfile : MOTOSIT-B2B_SFTP_POSM95792945_SO320287194599_Download_1.0_202312041208510001.zip is deleted successfully from the input folder :C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 07, 2023 3:55:48 PM sanm.MSI_CTO execute
+INFO: ------------------------------------------

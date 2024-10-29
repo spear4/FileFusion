@@ -1,0 +1,20 @@
+Dec 05, 2023 12:23:05 PM sanm.MSI_CTO execute
+INFO: No PO_SO Tab Delimiter File Found inside the Zip file : MOTOSIT-B2B_SFTP_POSM95792945_SO320287194599_Download_1.0_202312041208510001.zipWhich is taken fromC:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 05, 2023 12:23:06 PM sanm.MSI_CTO execute
+INFO: No SO XML File Found inside the Zip file : MOTOSIT-B2B_SFTP_POSM95792945_SO320287194599_Download_1.0_202312041208510001.zipWhich is taken fromC:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 05, 2023 12:23:06 PM sanm.MSI_CTO execute
+INFO: ERROR : Bad zip file - MOTOSIT-B2B_SFTP_POSM95792945_SO320287194599_Download_1.0_202312041208510001.zip is archived in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_ErrorZips Successfully
+Dec 05, 2023 12:23:06 PM sanm.MSI_CTO execute
+INFO: Proccessed zipfile : MOTOSIT-B2B_SFTP_POSM95792945_SO320287194599_Download_1.0_202312041208510001.zip is deleted successfully from the input folder :C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 05, 2023 12:23:06 PM sanm.MSI_CTO execute
+INFO: ------------------------------------------
+Dec 05, 2023 12:25:24 PM sanm.MSI_CTO execute
+INFO: No PO_SO Tab Delimiter File Found inside the Zip file : MOTOSIT-B2B_SFTP_POSM95792945_SO320287194599_Download_1.0_202312041208510001.zipWhich is taken fromC:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 05, 2023 12:25:24 PM sanm.MSI_CTO execute
+INFO: No SO XML File Found inside the Zip file : MOTOSIT-B2B_SFTP_POSM95792945_SO320287194599_Download_1.0_202312041208510001.zipWhich is taken fromC:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 05, 2023 12:25:24 PM sanm.MSI_CTO execute
+INFO: ERROR : Bad zip file - MOTOSIT-B2B_SFTP_POSM95792945_SO320287194599_Download_1.0_202312041208510001.zip is archived in C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_ErrorZips Successfully
+Dec 05, 2023 12:25:24 PM sanm.MSI_CTO execute
+INFO: Proccessed zipfile : MOTOSIT-B2B_SFTP_POSM95792945_SO320287194599_Download_1.0_202312041208510001.zip is deleted successfully from the input folder :C:\Users\manigandan_murugan\Desktop\my_java\zip_project\1096968_Input_Zip
+Dec 05, 2023 12:25:24 PM sanm.MSI_CTO execute
+INFO: ------------------------------------------
